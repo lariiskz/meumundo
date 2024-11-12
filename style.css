@@ -1,7 +1,7 @@
-/* Definindo o fundo da página para rosa claro e texto cinza escuro */ 
+/* Definindo o fundo da página para rosa claro e texto cinza */ 
 body {
   background-color: #f8d0e3; /* Cor de fundo rosa claro */
-  color: #333333; /* Texto cinza para bom contraste */
+  color: #777377; /* Texto cinza para bom contraste */
   font-family: Arial, sans-serif; /* Fonte padrão */
   margin: 0;
   padding: 0;
@@ -18,7 +18,7 @@ h1 {
   font-weight: bold;
   font-style: italic;
   font-size: 3rem;
-  color: white; /* Título branco */
+  color: rgb(230, 70, 97); /* Título rosa */
   text-align: center;
   margin-bottom: 40px;
 }
