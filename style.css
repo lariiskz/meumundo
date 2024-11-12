@@ -1,7 +1,7 @@
 /* Definindo o fundo da página para rosa claro e texto cinza escuro */ 
 body {
   background-color: #f8d0e3; /* Cor de fundo rosa claro */
-  color: #333333; /* Texto cinza escuro para bom contraste */
+  color: #333333; /* Texto cinza para bom contraste */
   font-family: Arial, sans-serif; /* Fonte padrão */
   margin: 0;
   padding: 0;
@@ -25,7 +25,7 @@ h1 {
 
 /* Estilizando os botões */
 button {
-  background-color: #1c7ff0; /* Cor azul claro */
+  background-color: #bd0fa5; /* Cor roxa clara */
   color: white; /* Texto branco */
   border: none;
   padding: 10px 20px;
@@ -38,7 +38,7 @@ button {
 
 /* Efeito de hover nos botões */
 button:hover {
-  background-color: #012a46; /* Cor azul mais escuro ao passar o mouse */
+  background-color: #910891a8; /* Cor roxa mais escura ao passar o mouse */
 }
 
 /* Estilizando o conteúdo da página */
