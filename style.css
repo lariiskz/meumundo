@@ -56,3 +56,11 @@ section p {
   font-size: 1.1rem;
   line-height: 1.6;
 }
+
+/* Estilizando imagens para ficarem centralizadas */
+img {
+  display: block; /* Garante que o flexbox funcione corretamente */
+  margin: 0 auto; /* Centraliza horizontalmente */
+  max-width: 100%; /* Garante que a imagem se ajuste à tela */
+  height: auto; /* Mantém a proporção da imagem */
+}
